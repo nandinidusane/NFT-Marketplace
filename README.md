@@ -1,6 +1,8 @@
 ## NFT-Marketplace
 This project is an NFT marketplace application that allows users to mint and transfer non-fungible tokens (NFTs) using the Ethereum blockchain. It utilizes the MetaMask wallet for interacting with the Ethereum network.
 
+The project is also hosted on [Netlify](https://newnftmarketplace.netlify.app/) and can be accessed live.
+
 ## Features
 
 Minting NFTs: Users can mint new NFTs by specifying the recipient address, token ID, name, and price.
